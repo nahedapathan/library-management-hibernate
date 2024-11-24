@@ -22,4 +22,4 @@ This is a **Java-based Library Management System** project that implements **Hib
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nahedapathan/library-management-hibernate.git
+   https://github.com/nahedapathan/library-management-hibernate.git
